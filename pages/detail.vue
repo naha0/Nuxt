@@ -1,3 +1,9 @@
+<script setup lang="ts">
+definePageMeta({
+    middleware:['default']
+})
+</script>
+
 <template>
-    <h1>detail page</h1>
+    111
 </template>
